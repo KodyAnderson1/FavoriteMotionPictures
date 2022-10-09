@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun Oct 09 09:16:53 CDT 2022:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0183-bd1b-1b01-00000f4b0e00 
+Sun Oct 09 09:42:12 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0183-bd32-4700-00000f411f90 
 on database directory C:\Users\Owner\Desktop\UWF\Fall2022\SoftEng\Group4\trainsdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6b2fad11 
 Loaded from file:/C:/Users/Owner/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Eclipse Adoptium
@@ -12,8 +12,8 @@ os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Sun Oct 09 09:16:54 CDT 2022: Shutting down Derby engine
+Sun Oct 09 09:42:12 CDT 2022: Shutting down Derby engine
 ----------------------------------------------------------------
-Sun Oct 09 09:16:54 CDT 2022:
-Shutting down instance a816c00e-0183-bd1b-1b01-00000f4b0e00 on database directory C:\Users\Owner\Desktop\UWF\Fall2022\SoftEng\Group4\trainsdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6b2fad11 
+Sun Oct 09 09:42:12 CDT 2022:
+Shutting down instance a816c00e-0183-bd32-4700-00000f411f90 on database directory C:\Users\Owner\Desktop\UWF\Fall2022\SoftEng\Group4\trainsdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6b2fad11 
 ----------------------------------------------------------------
